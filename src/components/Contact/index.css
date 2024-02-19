@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.card-img {
+  width: 150px;
+  height: 150px;
+}
+
+.card-title {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-size: 48px;
+  font-weight: 700;
+}
